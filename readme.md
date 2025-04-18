@@ -129,17 +129,6 @@ protected function getProductsFromApi(string \$url): array
 
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch:
-```
-
-git checkout -b feature/your-feature
-
-```
-3. Commit your changes and push to your fork
-4. Open a pull request
 
 ## License
 
